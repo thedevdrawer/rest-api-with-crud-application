@@ -1,0 +1,7 @@
+<div class="page">
+<h1></h1>
+<div class="content"></div>
+</div>
+<div id="test"></div>
+<script src="js/init.js"></script>
+<script> getpage(''); </script>
