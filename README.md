@@ -1,3 +1,5 @@
+View the video: [https://youtu.be/PGKa8zPeFfY](https://youtu.be/PGKa8zPeFfY)
+
 # Rest API with CRUD Application
 
 Now that we have looked at the custom PHP REST API, we need to create documentation. To do this, I will be using Swagger UI. In this tutorial, we go over how to install Swagger and Swagger PHP in order to dynamically populate your interactive documentation.
@@ -19,5 +21,3 @@ Now, we learn how to add JWT tokenization to our RESTful API.
 We use Firebase JWT to create and retrieve a simple token that can be used to validate users, external websites, and make your API more secure. We also turn on tokenization in our Swagger UI and allow users to generate a token that can be used to authorize our other routes using a GUI.
 
 Finally, we will use AJAX to make a request to the API to secure a token that can be used to view the pages and header content. The token will be generated server-side and sent to our app to be stored within the browser session. This will ensure every hit to our API is from a secured source.
-
-View the video: [https://youtu.be/PGKa8zPeFfY](https://youtu.be/PGKa8zPeFfY)
